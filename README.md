@@ -1,2 +1,3 @@
-# Online-Shoppers-classification-and-Clustering---Practice
-I have practiced a  classification and clusturing algorithm for detailed understanding of it There might be some mistake since this is the first time practicing the classification and clustering algorithm if any mistkake is found means kindly let me know I will rectify my errors.
+# Context: This dataset contains feature vectors representing 12,330 sessions of online shoppers, where each session belongs to a different user within a year.
+
+**Project Focus:** The project allowed me to explore both classification and clustering algorithms. I investigated how to group similar online shopper sessions and apply predictive models. This project further strengthened my understanding of clustering techniques, providing a foundation for tackling similar problems in the future.
